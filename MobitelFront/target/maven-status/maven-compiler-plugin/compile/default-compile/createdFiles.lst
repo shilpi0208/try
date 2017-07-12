@@ -1,0 +1,9 @@
+com\Mobitel\MobitelFront\Controller\OrderController.class
+com\Mobitel\MobitelFront\Controller\CartController.class
+com\Mobitel\MobitelFront\Controller\ProductController.class
+com\Mobitel\MobitelFront\Controller\SupplierController.class
+com\Mobitel\MobitelFront\Controller\AdminController.class
+com\Mobitel\MobitelFront\Controller\LoginController.class
+com\Mobitel\MobitelFront\Controller\CategoryController.class
+com\Mobitel\MobitelFront\Controller\HomeController.class
+com\Mobitel\MobitelFront\Controller\UserController.class
